@@ -3,7 +3,7 @@
 
 Rendering True Type fonts on a 3D surface
 
-![delaunay demo](https://raw.github.com/JamesHight/3d-true-type-font-rendering/master/example.png)
+![Dynamic text rendered\n using "ACTION IS" TrueType font file from 1001freefonts.com](https://raw.github.com/JamesHight/3d-true-type-font-rendering/master/example.png)
 
 ````actionscript
 public class Font3DTest extends BasicView {
